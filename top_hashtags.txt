@@ -1,0 +1,4 @@
+#bullying: 109
+#bully: 40
+#itreallymakesmemad: 30
+#stopbullying: 20
